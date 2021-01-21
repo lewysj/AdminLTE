@@ -13,7 +13,7 @@
   transition-duration: 0.5s;
 }
 
-.small-box span.glow {
+.span.glow {
   text-shadow: 0 0 5px currentColor;
 }
 
@@ -328,5 +328,5 @@
 
 .box,
 .small-box {
-  border-radius: 10px;
+  /* border-radius: 10px; */
 }
